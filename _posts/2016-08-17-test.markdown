@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Hello, world"
+---
+Trying things out
+
+{% highlight bash %}
+ps aux
+{% endhighlight %}
